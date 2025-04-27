@@ -27,7 +27,7 @@
 
 
 3. **RUN**: 
-   After compilation, you can run the game with:
+   you can run the game with:
    NeonBlaster.exe
    or use the NeonBlaster_GAME\build\NeonBlaster.exe file.
 
