@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/szymo/OneDrive/Pulpit/BlinkLedSim/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/BlinkLedSim.dir/includes_C.rsp -g -o CMakeFiles\\BlinkLedSim.dir\\src\\main.c.obj -c C:\\Users\\szymo\\OneDrive\\Pulpit\\BlinkLedSim\\src\\main.c",
+  "file": "C:/Users/szymo/OneDrive/Pulpit/BlinkLedSim/src/main.c",
+  "output": "CMakeFiles/BlinkLedSim.dir/src/main.c.obj"
+}
+]

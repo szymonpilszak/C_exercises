@@ -1,0 +1,3 @@
+C:/Users/szymo/OneDrive/Pulpit/BlinkLedSim/build/CMakeFiles/BlinkLedSim.dir
+C:/Users/szymo/OneDrive/Pulpit/BlinkLedSim/build/CMakeFiles/edit_cache.dir
+C:/Users/szymo/OneDrive/Pulpit/BlinkLedSim/build/CMakeFiles/rebuild_cache.dir
