@@ -20,20 +20,15 @@
 
 ## How to Compile and Run
 
-1. **Install SDL2**:  
-   Make sure you have the SDL2 library installed on your system. You can download it from [SDL2's official website](https://www.libsdl.org/).
-
-2. **Compile**:  
-   To compile the game, use the following command (assuming SDL2 is installed):
-
-   ```bash
-   gcc -o neonblaster neonblaster.c -lSDL2 -lm
-
+#### Windows (using MinGW)
+1. Install MinGW to get the GCC compiler:
+   - Download and install proper architecture [MinGW-w64](https://mingw-w64.org/doku.php/download/mingw-builds).
+2. Download the SDL2 development libraries for MinGW from the [official SDL2 website](https://www.libsdl.org/download-2.0.php).
 
 
 3. **RUN**: 
    After compilation, you can run the game with:
-   ./neonblaster
+   NeonBlaster.exe
    or use the NeonBlaster_GAME\build\NeonBlaster.exe file.
 
 
